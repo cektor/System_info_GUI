@@ -24,7 +24,7 @@ pip install pywin32
 ```
 
 ----------------------------------
-https://fatihonder.org.tr/python-ile-pardus-linux-alias-yonetim-uygulamasi/
+https://fatihonder.org.tr/python-ile-sistem-bilgisi-uygulamasi/
 
 # Installation
 Install System_info_GUI
