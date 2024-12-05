@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # System_info_GUI
 Gives Detailed System Information Gives CPU and RAM Information with Graphics Exports and Saves Screenshots Written in Python.
 
